@@ -1,2 +1,2 @@
 # le-reveilleur
-associe au video youtube du reveilleur
+Python scripts associated with the youtube channel "le réveilleur"
